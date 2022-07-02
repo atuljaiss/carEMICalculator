@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="CarEMI">CarEmiCalculator</string>
+    <string name="string_tenure_in_month">Tenure_in_month</string>
+</resources>
